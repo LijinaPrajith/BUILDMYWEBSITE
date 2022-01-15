@@ -1,3 +1,3 @@
 # BUILDWEBSITE
 
-https://github.com/LijinaPrajith/buildmywebsite..git
+https://lijinaprajith.github.io/buildmywebsite./
